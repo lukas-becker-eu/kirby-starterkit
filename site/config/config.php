@@ -9,4 +9,5 @@
  */
 return [
     'debug' => true,
+    'url' => 'https://lukas-becker.azurewebsites.net',
 ];
